@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi Github 👋
 
+3rd year computer engineering student at Kocaeli University
+I <3 Technology
 <!--
 **TunaKomur/TunaKomur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
